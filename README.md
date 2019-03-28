@@ -10,12 +10,10 @@ This is an implementation of the models in the following paper which is submitte
 **In case you find the code useful, please consider giving appropriate credit to it by citing the paper above.**
 
 ```
-@ARTICLE{Qiao:MEDIA:2018,
+@ARTICLE{Qiao:2018:2,
 	Author = {Zheng, Q and Delingette, H and Ayache, N},
-	Journal = {?},
+	Journal = {arXiv preprint arXiv:1811.03433},
 	Title = {Explainable cardiac pathology classification on cine MRI with motion characterization by semi-supervised learning of apparent flow},
-	Volume = {?},
-	Pages = {?-?},
 	Year = {2018}
 }
 
