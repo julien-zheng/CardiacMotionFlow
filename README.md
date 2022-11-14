@@ -14,6 +14,8 @@ This is an implementation of the models in the following paper which is submitte
 	Author = {Zheng, Q and Delingette, H and Ayache, N},
 	Journal = {Medical Image Analysis},
 	Title = {Explainable cardiac pathology classification on cine MRI with motion characterization by semi-supervised learning of apparent flow},
+	Volume = {56},
+	Pages = {80-95},
 	Year = {2019}
 }
 
