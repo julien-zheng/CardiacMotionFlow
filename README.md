@@ -12,15 +12,15 @@ This is an implementation of the models in the following paper which is submitte
 ```
 @ARTICLE{Qiao:2018:2,
 	Author = {Zheng, Q and Delingette, H and Ayache, N},
-	Journal = {arXiv preprint arXiv:1811.03433},
+	Journal = {Medical Image Analysis},
 	Title = {Explainable cardiac pathology classification on cine MRI with motion characterization by semi-supervised learning of apparent flow},
-	Year = {2018}
+	Year = {2019}
 }
 
 ```
 
 ```
-DOI: ?
+DOI: 10.1016/j.media.2019.06.001
 ```
 
 ## Requirements
